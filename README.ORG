@@ -1,0 +1,4 @@
+* Prepare
+  go get all
+* Build
+  go build main.go
